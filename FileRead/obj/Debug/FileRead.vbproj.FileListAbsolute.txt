@@ -1,0 +1,12 @@
+E:\PROJECTS\VS\FileRead\bin\Debug\FileRead.exe.config
+E:\PROJECTS\VS\FileRead\bin\Debug\FileRead.exe
+E:\PROJECTS\VS\FileRead\bin\Debug\FileRead.pdb
+E:\PROJECTS\VS\FileRead\bin\Debug\FileRead.xml
+E:\PROJECTS\VS\FileRead\obj\Debug\FileRead.vbproj.AssemblyReference.cache
+E:\PROJECTS\VS\FileRead\obj\Debug\FileRead.Form1.resources
+E:\PROJECTS\VS\FileRead\obj\Debug\FileRead.Resources.resources
+E:\PROJECTS\VS\FileRead\obj\Debug\FileRead.vbproj.GenerateResource.cache
+E:\PROJECTS\VS\FileRead\obj\Debug\FileRead.vbproj.CoreCompileInputs.cache
+E:\PROJECTS\VS\FileRead\obj\Debug\FileRead.exe
+E:\PROJECTS\VS\FileRead\obj\Debug\FileRead.xml
+E:\PROJECTS\VS\FileRead\obj\Debug\FileRead.pdb
